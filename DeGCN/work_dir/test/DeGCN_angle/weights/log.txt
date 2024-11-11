@@ -1,0 +1,4 @@
+[ Sat Nov  9 19:27:40 2024 ] Load weights from work_dir/train/DeGCN_angle/weights/epoch_70_33390.pt.
+[ Sat Nov  9 19:27:40 2024 ] using warm up, epoch: 5
+[ Sat Nov  9 19:27:53 2024 ] Load weights from work_dir/train/DeGCN_angle/weights/epoch_70_33390.pt.
+[ Sat Nov  9 19:27:53 2024 ] using warm up, epoch: 5

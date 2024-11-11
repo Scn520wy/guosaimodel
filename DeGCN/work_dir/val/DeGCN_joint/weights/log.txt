@@ -1,0 +1,2 @@
+[ Mon Nov 11 18:32:37 2024 ] Load weights from work_dir/train/DeGCN_joint/weights/epoch_69_55752.pt.
+[ Mon Nov 11 18:32:38 2024 ] using warm up, epoch: 5

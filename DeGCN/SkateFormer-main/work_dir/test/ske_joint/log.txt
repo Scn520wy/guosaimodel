@@ -1,0 +1,1 @@
+[ Mon Nov 11 19:19:41 2024 ] Load weights from SkateFormer-main/work_dir/uav/ske_joint/runs-473-123453.pt.
